@@ -36,7 +36,9 @@ function merge(arr, l, mid, r) {
 }
 
 
-let arr1 = [3, 2, 1, 4];     // Sample array 
+// let arr1 = [3, 2, 1, 4];     // Sample array 
 
-mergeSort(arr1, 0, arr1.length-1);
-console.log(arr1)
+// mergeSort(arr1, 0, arr1.length-1);
+
+module.exports.mergeSort = mergeSort;
+

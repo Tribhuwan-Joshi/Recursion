@@ -1,0 +1,20 @@
+{
+  "name": "recursionProject",
+  "version": "1.0.0",
+  "description": "- Fibonacci using Recursion and iteration\r - Merge Sort - sorting algorithm based on recursion",
+  "main": "Assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tribhuwan-Joshi/Recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tribhuwan-Joshi/Recursion/issues"
+  },
+  "homepage": "https://github.com/Tribhuwan-Joshi/Recursion#readme"
+}
