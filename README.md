@@ -8,7 +8,7 @@
 ### Description
     npm package for sorting your integer type array.
 ### Installation
-    `npm i recursionProject --save`
+    `npm i mergefunction --save`
     ```
     import {mergeSort} from 'mergeSort';
     let arr1 = [11,23,45,6];

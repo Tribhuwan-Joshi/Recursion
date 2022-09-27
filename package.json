@@ -1,5 +1,5 @@
 {
-  "name": "recursionProject",
+  "name": "mergefunction",
   "version": "1.0.0",
   "description": "- Fibonacci using Recursion and iteration\r - Merge Sort - sorting algorithm based on recursion",
   "main": "Assignment1.js",
