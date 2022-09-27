@@ -8,11 +8,10 @@
 ### Description
     npm package for sorting your integer type array.
 ### Installation
-    `npm i mergefunction --save`
-    ```
+    npm i mergefunction --save
+```javascript
     import {mergeSort} from 'mergeSort';
     let arr1 = [11,23,45,6];
     mergeSort(arr1);
     console.log(arr1) ;  // [6,11,23,45]
-
-    ```
+```
